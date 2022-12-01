@@ -17,14 +17,14 @@
 ## Projects
 
 ### [Sales Prediction of Drugstore company with a bot at Telegram](https://github.com/danieltodaDS/Datascience_em_Producao)
-- Business Problem: A CFO of drugstore company needs to have a forecast of sales for the next six weeks, so he will know how much to invest in renovation of the stores.
+- Business Case: A CFO of drugstore company needs to have a forecast of sales for the next six weeks, so he will know how much to invest in renovation of the stores. 
 - Solution: In this time series problem, I used ensemble methods for regression tasks to predict the six weeks sales, and developed a Telegram Bot to access these predictions 
 - Results: 
-- Tools: Python, Flask, Ensemble Methods(XGBoost, Random Forest Regression)   
+- Tools: Python, Flask, Ensemble Methods(XGBoost, Random Forest Regression), Render Cloud   
  
-### [Project of Insight for a real-state company](https://github.com/danieltodaDS/houserocket_project)
-- Business Problem: 
-- Solution: 
+### [Project of insight of a real-state company](https://github.com/danieltodaDS/houserocket_project)
+- Business Problem: A CEO of real-state company, that consists in purchasing properties and reeseling them, asked for data team to select the best transactions that could maximize the profits
+- Solution: developed a webapp with the recomended properties(buy and sell), disposed at tables and interactive maps with the distribuition os properties   
 - Results: 
-- Tools:
+- Tools: Python, Streamlit Cloud
 
