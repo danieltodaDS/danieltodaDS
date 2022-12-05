@@ -19,7 +19,7 @@
 ### [Sales Prediction of Drugstore company with a bot at Telegram](https://github.com/danieltodaDS/Datascience_em_Producao)
 - Business Case: A CFO of drugstore company needs to have a forecast of sales for the next six weeks, so he will know how much to invest in renovation of the stores. 
 - Solution: In this time series problem, I used ensemble methods for regression tasks to predict the six weeks sales, and developed a Telegram Bot to access these predictions 
-- Results: 
+- Results: (on going)
 - Tools: Python, Flask, Ensemble Methods(XGBoost, Random Forest Regression), Render Cloud   
  
 ### [Project of insight of a real-state company](https://github.com/danieltodaDS/houserocket_project)
