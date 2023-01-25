@@ -16,6 +16,12 @@
  
 ## Projects
 
+### [Ordering a potential client list by propensity score for a car insurance cross-sell](https://github.com/danieltodaDS/Health-Insurance-Cross-Sell)
+- Business Case: Life Safety is a health insurance company that plans to implement a cross sell strategy. For that it needs to prioritize those with higher propensity to purchase the product. 
+- Solution: In this learn to rank problem, I used Gradient Boosting to classify and return a propensity score. This score was used to sort the customer base by the higher propensity to purchase and the predictions can be accessed by Google Spreadsheet   
+- Results: at 20% customer base reached out, the model hit 2.89x more interested customers and reduced CAC in 35%.
+- Tools: Python, Flask, Ensemble Methods(XGBoost, Random Forest, KNN), Render Cloud, Google Scriptss   
+
 ### [Sales Prediction of Drugstore company with a bot at Telegram](https://github.com/danieltodaDS/Datascience_em_Producao)
 - Business Case: A CFO of drugstore company needs to have a forecast of sales for the next six weeks, so he will know how much to invest in renovation of the stores. 
 - Solution: In this time series problem, I used ensemble methods for regression tasks to predict the six weeks sales, and developed a Telegram Bot to access these predictions 
